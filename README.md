@@ -62,25 +62,23 @@ https://drive.google.com/file/d/1ENV7nNZ_ISBojUq1raiuOK3AhWWrJsrT/view?usp=shari
 
 ### Setup Steps
 
-    1. Clone the repository:
-        ```bash
-        git clone https://github.com/your-username/splitsmart.git
-        cd splitsmart
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/splitsmart.git
+   cd splitsmart
    
-    2. Install dependencies:
-        ```bash
-        flutter pub get
+2. Install dependencies:
+   ```bash
+   flutter pub get
       
-    3. Add your Firebase config files:
+3. Add your Firebase config files:
+   google-services.json for Android
 
-        google-services.json for Android
+   GoogleService-Info.plist for iOS
 
-        GoogleService-Info.plist for iOS
-
-    4. Run the app:
-
-        ```bash
-        flutter run
+4. Run the app:
+    ```bash
+    flutter run
 
 ### 🎯 Purpose of This Project
 
@@ -103,4 +101,5 @@ Tracks and clears debts automatically for smarter settlements
 ### 👤 Author
 
 Abdul Haseeb
+
 Flutter Developer | Software Engineering Student
